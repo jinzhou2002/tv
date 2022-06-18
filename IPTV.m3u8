@@ -1,93 +1,16 @@
-#EXTM3U 
-#EXTINF:-1 tvg-logo=CCTV1.png tvg-name=CCTV1 group-title=央视频道,CCTV1
-http://39.134.39.39/TVOD/88888888/224/3221226247/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV2.png tvg-name=CCTV2 group-title=央视频道,CCTV2
-http://39.134.39.39/TVOD/88888888/224/3221226220/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV3.png tvg-name=CCTV3 group-title=央视频道,CCTV3
-http://39.134.39.39/TVOD/88888888/224/3221226251/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV4.png tvg-name=CCTV4 group-title=央视频道,CCTV4
-http://hwottcdn.ln.chinamobile.com:80/TVOD/11/224/3221226176/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV5.png tvg-name=CCTV5 group-title=央视频道,CCTV5
-http://39.134.39.39/TVOD/88888888/224/3221226224/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV5+.png tvg-name=CCTV5+ group-title=央视频道,CCTV5+
-http://39.134.39.39/TVOD/88888888/224/3221226253/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV6.png tvg-name=CCTV6 group-title=央视频道,CCTV6
-http://39.134.39.39/TVOD/88888888/224/3221226226/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV7.png tvg-name=CCTV7 group-title=央视频道,CCTV7
-http://39.134.39.39/TVOD/88888888/224/3221226255/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV8.png tvg-name=CCTV8 group-title=央视频道,CCTV8
-http://39.134.39.39/TVOD/88888888/224/3221226257/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV9.png tvg-name=CCTV9 group-title=央视频道,CCTV9
-http://39.134.39.39/TVOD/88888888/224/3221226259/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV10.png tvg-name=CCTV10 group-title=央视频道,CCTV10
-http://39.134.39.39/TVOD/88888888/224/3221226228/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV11.png tvg-name=CCTV11 group-title=央视频道,CCTV11
-http://39.134.39.39/TVOD/88888888/224/3221226261/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV12.png tvg-name=CCTV12 group-title=央视频道,CCTV12
-http://39.134.39.39/TVOD/88888888/224/3221226230/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV13.png tvg-name=CCTV13 group-title=央视频道,CCTV13
-http://39.135.33.12/TVOD/77777777/224/3221226819/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV14.png tvg-name=CCTV14 group-title=央视频道,CCTV14
-http://39.134.39.39/TVOD/88888888/224/3221226232/index.m3u8
-#EXTINF:-1 tvg-logo=CCTV15.png tvg-name=CCTV15 group-title=央视频道,CCTV15
-http://39.134.39.39/TVOD/88888888/224/3221226234/index.m3u8
-#EXTINF:-1 tvg-logo=CCTVNEWS.png tvg-name=CCTVNEWS group-title=央视频道,CCTVNEWS
-http://39.134.39.39/TVOD/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 tvg-logo=湖南卫视.png tvg-name=湖南卫视  group-title=卫视频道,湖南卫视 
-http://39.134.39.39/TVOD/88888888/224/3221226268/index.m3u8
-#EXTINF:-1 tvg-logo=江苏卫视.png tvg-name=江苏卫视  group-title=卫视频道,江苏卫视 
-http://39.134.39.39/TVOD/88888888/224/3221226264/index.m3u8
-#EXTINF:-1 tvg-logo=浙江卫视.png tvg-name=浙江卫视  group-title=卫视频道,浙江卫视
-http://39.134.39.39/TVOD/88888888/224/3221226266/index.m3u8
-#EXTINF:-1 tvg-logo=东方卫视.png tvg-name=东方卫视  group-title=卫视频道,东方卫视
-http://39.134.39.39/TVOD/88888888/224/3221226155/index.m3u8
-#EXTINF:-1 tvg-logo=北京卫视.png tvg-name=北京卫视  group-title=卫视频道,北京卫视 
-http://39.134.39.39/TVOD/88888888/224/3221226161/index.m3u8
-#EXTINF:-1 tvg-logo=广东卫视.png tvg-name=广东卫视  group-title=卫视频道,广东卫视 
-http://39.134.39.39/TVOD/88888888/224/3221226180/index.m3u8
-#EXTINF:-1 tvg-logo=东南卫视.png tvg-name=东南卫视  group-title=卫视频道,东南卫视 
-http://39.134.39.39/TVOD/88888888/224/3221226182/index.m3u8
-#EXTINF:-1 tvg-logo=深圳卫视.png tvg-name=深圳卫视  group-title=卫视频道,深圳卫视 
-http://39.134.39.39/TVOD/88888888/224/3221226199/index.m3u8
-#EXTINF:-1 tvg-logo=天津卫视.png tvg-name=天津卫视  group-title=卫视频道,天津卫视 
-http://39.134.39.39/TVOD/88888888/224/3221226191/index.m3u8
-#EXTINF:-1 tvg-logo=安徽卫视.png tvg-name=安徽卫视  group-title=卫视频道,安徽卫视 
-http://39.134.39.39/TVOD/88888888/224/3221226205/index.m3u8
-#EXTINF:-1 tvg-logo=山东卫视.png tvg-name=山东卫视  group-title=卫视频道,山东卫视
-http://39.134.39.39/TVOD/88888888/224/3221226162/index.m3u8
-#EXTINF:-1 tvg-logo=四川卫视.png tvg-name=四川卫视  group-title=卫视频道,四川卫视
-http://39.134.39.39/TVOD/88888888/224/3221226307/index.m3u8
-#EXTINF:-1 tvg-logo=重庆卫视.png tvg-name=重庆卫视  group-title=卫视频道,重庆卫视
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225686/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo=湖北卫视.png tvg-name=湖北卫视  group-title=卫视频道,湖北卫视 
-http://39.134.39.39/TVOD/88888888/224/3221226159/index.m3u8
-#EXTINF:-1 tvg-logo=辽宁卫视.png tvg-name=辽宁卫视  group-title=卫视频道,辽宁卫视 
-http://39.134.39.39/TVOD/88888888/224/3221226278/index.m3u8
-#EXTINF:-1 tvg-logo=江西卫视.png tvg-name=江西卫视  group-title=卫视频道,江西卫视 
-http://39.134.39.39/TVOD/88888888/224/3221226207/index.m3u8
-#EXTINF:-1 tvg-logo=贵州卫视.png tvg-name=贵州卫视  group-title=卫视频道,贵州卫视 
-http://39.134.39.39/TVOD/88888888/224/3221226276/index.m3u8
-#EXTINF:-1 tvg-logo=河北卫视.png tvg-name=河北卫视  group-title=卫视频道,河北卫视 
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226507/1.m3u8
-#EXTINF:-1 tvg-logo=黑龙江卫视.png tvg-name=黑龙江卫视  group-title=卫视频道,黑龙江卫视 
-http://39.134.39.39/TVOD/88888888/224/3221226142/index.m3u8
-#EXTINF:-1 tvg-logo=河南卫视.png tvg-name=河南卫视 group-title=卫视频道,河南卫视
-http://39.134.39.39/TVOD/88888888/224/3221225653/index.m3u8
-#EXTINF:-1 tvg-logo=吉林卫视.png tvg-name=吉林卫视 group-title=卫视频道,吉林卫视
-http://39.134.39.39/TVOD/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 tvg-logo=山西卫视.png tvg-name=山西卫视 group-title=卫视频道,山西卫视
-http://39.134.39.39/TVOD/88888888/224/3221225870/index.m3u8
-#EXTINF:-1 tvg-logo=青海卫视.png tvg-name=青海卫视 group-title=卫视频道,青海卫视
-http://39.134.39.39/TVOD/88888888/224/3221225654/index.m3u8
-#EXTINF:-1 tvg-logo=云南卫视.png tvg-name=云南卫视 group-title=卫视频道,云南卫视
-http://39.134.39.39/TVOD/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 tvg-logo=宁夏卫视.png tvg-name=宁夏卫视 group-title=卫视频道,宁夏卫视
-http://39.134.39.39/TVOD/88888888/224/3221225647/index.m3u8
-#EXTINF:-1 tvg-logo=新疆卫视.png tvg-name=新疆卫视 group-title=卫视频道,新疆卫视
-http://39.134.39.39/TVOD/88888888/224/3221225704/index.m3u8
-#EXTINF:-1 tvg-logo=内蒙古卫视.png tvg-name=内蒙古卫视 group-title=卫视频道,内蒙古卫视
-http://39.134.39.39/TVOD/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 tvg-logo=广西卫视.png tvg-name=广西卫视 group-title=卫视频道,广西卫视
-http://39.134.39.39/TVOD/88888888/224/3221225679/index.m3u8
-#EXTINF:-1 tvg-logo=厦门卫视.png tvg-name=厦门卫视 group-title=卫视频道,厦门卫视
-http://39.134.39.39/TVOD/88888888/224/3221225689/index.m3u8
+CCTV,#genre#
+CCTV1,http://111.40.196.29/PLTV/88888888/224/3221225769/index.m3u8
+CCTV1,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fg10000c832ecbc77ub9v7oj040&ratio=720p&line=0
+CCTV2,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+CCTV2,http://iptv.tvfix.org/hls/cctv2hd.m3u8
+CCTV10,http://39.135.46.229:6610/PLTV/77777777/224/3221225624/index.m3u8?IASHttpSessionId=OTT10346620220501103826000264
+CCTV11,http://39.135.46.229:6610/PLTV/77777777/224/3221225739/index.m3u8?
+CCTV13,http://39.135.46.229:6610/PLTV/77777777/224/3221225787/index.m3u8?
+卫视,#genre#
+湖南卫视 ,http://39.134.65.162/PLTV/88888888/224/3221225506/index.m3u8
+抖音,https://alimov2.a.kwimgs.com/upic/2022/06/04/10/BMjAyMjA2MDQxMDEwMjBfNDU3NTY2NDY4Xzc1OTgwODM4MjA4XzFfMw==_b_Bbff87e6d1e1e4c2822c97e49567b891f.mp4?clientCacheKey=3xziexsg4a52kus_b.mp4&tt=b&di=7b93f59c&bp=10000,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fg10000c832ecbc77ub9v7oj040&ratio=720p&line=0
+同根异果上,https://boot-video.xuexi.cn/video/1006/p/43c2108c33be6ae2e7e75b760b4524dd-f8a77481d7c44016950885595682af41-2.mp4
+同根异果下,https://boot-video.xuexi.cn/video/1006/p/7f9732111bee85ecc8ea0474619414cc-1d8a94e1051b44bcbd870397eec11bdc-2.mp4
+花好月圆上,https://boot-video.xuexi.cn/video/1006/p/81a019a090b8f7f15f4ea8fc37c78248-b03d6ed66c9848bb949f96885a2fb0a1-2.mp4
+花好月圆下,https://boot-video.xuexi.cn/video/1006/p/0ffc815ab08eed47347744362abdfaf5-51ad00c21c954f8ea1d7cda5a1f933e8-2.mp4
+6.1,https://qvod2.vzan.com/966874/009415337608216414/replay.1653881475.18436256.m3u8?zbid=966874&tpid=924002199
